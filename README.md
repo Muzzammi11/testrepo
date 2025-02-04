@@ -1,6 +1,6 @@
-#Hello
-my name is muzamil
+# Hello
+my name is muzamil.
 
 
-##hi
+## hi
 this is me!
